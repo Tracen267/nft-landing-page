@@ -1,4 +1,5 @@
-# These are supported funding model platforms
+# These are su  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"supported funding model platforms
 
 github: codeSTACKr
 patreon: # Replace with a single Patreon username
